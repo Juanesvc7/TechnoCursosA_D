@@ -36,3 +36,13 @@ A partir de estos datos, se desarrollan análisis que permiten identificar compo
 - Implementar un nuevo plan semestral como opción más flexible para los estudiantes.  
 - Mejorar el seguimiento y la motivación para aumentar la finalización de cursos.  
 - Crear estrategias específicas para reducir el abandono en adultos.  
+
+---
+
+## 👥 Autores
+
+Proyecto desarrollado por:
+
+- Juan Esteban Ruiz  
+- Daniel Echeverry  
+- Juan Carlos Caicedo  
